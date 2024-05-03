@@ -14,7 +14,7 @@
     "tailwindcss": "^1.1.2",
     "vue": "^3.0.0",
     "vue-chartkick": "^1.1.0",
-    "vue-date-fns": "^2.0.1",
+    "vue-date-fns": "^2.0.2",
     "vue-easy-spinner": "^0.1.0",
     "vue-router": "^4.0.12"
   },
